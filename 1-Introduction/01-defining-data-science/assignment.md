@@ -20,9 +20,9 @@ Fill in the following table (substitute suggested problem domains for your own o
 
 | Problem Domain | Problem | Which data to collect | How to store the data | Which insights/decisions we can make | 
 |----------------|---------|-----------------------|-----------------------|--------------------------------------|
-| Education | | | | |
-| Vaccination | | | | |
-| Productivity | | | | |
+| Education | Students left behind| Grades across several subjects| relational database| Learn what subject a student can improve in|
+| Vaccination | Certain populations may not receive the vaccine| Person and their demographics (those who received the vaccine)| relational database| Analyze which populations are not receiving the vaccine|
+| Productivity | Amount of work in day needs to increase| Task done at each time of day and for how long| relational database| Decide if spending the appropriate amount of time on a task|
 
 ## Rubric
 
